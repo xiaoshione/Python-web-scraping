@@ -29,4 +29,4 @@ scrapy之存储：</br>
 - [App抓取并存入MongoDB](https://github.com/LUCY78765580/Python-web-scraping/tree/master/TouTiao)</br>
 - [断点续爬并存入MySQL](https://github.com/LUCY78765580/Python-web-scraping/tree/master/ZhiHu1)</br>
 
-其它待更
+其它待更---pponeoligei
